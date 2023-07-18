@@ -1,9 +1,5 @@
 # Reproduced-Results
 
-# Reproduced-Results
-
-# Reproduced-Code
-
 Welcome to the "Reproduced Results" repository! This repository aims to reproduce the results of existing 
 published papers, validating their findings and promoting scientific transparency. Here, you will find 
 the code and resources necessary to replicate the experiments and analyses conducted in the selected 
