@@ -1,0 +1,12 @@
+name: mmc
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python==3.9.0
+  - numpy==1.25.1
+  - scipy==1.11.1
+  - torch==2.0.0+cu118
+  - torchvision==0.15.1+cu118
+  - torchaudio==2.0.1
+  - tqdm==4.65.0
